@@ -1,0 +1,7 @@
+com\example\tests\SignUpTests.class
+com\example\tests\FormTests.class
+com\example\suites\TestSuite.class
+com\example\tests\DropdownTests.class
+com\example\tests\BaseTest.class
+com\example\tests\ButtonTests.class
+com\example\tests\MenuTests.class
